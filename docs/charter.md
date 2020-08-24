@@ -86,7 +86,7 @@ We're not multiple teams under one group. We're one group of people. No "A" team
     - Ensure guild and individuals are staying true to our Haste ways.
   - Class Champion
     - An individual nominated to the role by his peers in class.
-    - The guild's multi directional conduit into various raid ceremonies such as Loot Council votes, Post Raid discussions, class raid assignments, etc.
+    - The guild's multi directional conduit into raid ceremonies such as Loot Council votes, Post Raid discussions, class raid assignments, etc.
     - Works with a Officer to introduce and explore concepts into raids and shape the guild.
   - Raider
     - Maintains the 3 P's.
@@ -176,15 +176,19 @@ The council is made up of many individuals within the guild. It's a cross sectio
 | Raid performance | Does this person kick butt? The monster ones.|
 | Raid attitude | Does this person make raiding a pleasure? Or are they a fuck face. |
 | Tenure | Time is a great measure of an individuals character |
-| Meeting expectations | did they read this document?
+| Meeting expectations | Did they read this document?
 
 ##### Council Commitment
 
 As mentioned above, the council is a cross section of the guild. The goal is that diversity provides perspective to create a fair process for deciding the most optimal placement of loot within the guild.
 
+By voting on the council, each member is comitted to a fair and quality vote for all participants.
+
 ##### Council Feedback
 
-So something didn't go your way, or would like some clarity on thing? Let's discuss AFTER the raid. 
+So something didn't go your way, or would like some clarity on thing? Let's discuss AFTER the raid.
+
+The feedback channels are to use **Class Champions**, **Officers**, and potentially the **GM**. Moreover, it's important to start local within our group & gain perspective. 
 
 ### WoW Classic Addons
 
@@ -192,7 +196,6 @@ So something didn't go your way, or would like some clarity on thing? Let's disc
 
 - Deadly Boss Mods (DBM)
   - Don't stand in the fire dummy! JK, but srsly.
-
 - Classic Loot Assist
   - Loot the dog. Thank you.
 - RC_LootCouncil
@@ -221,13 +224,16 @@ So something didn't go your way, or would like some clarity on thing? Let's disc
 
 ##### AQ
 
-Skill Book Priority unless stated.
+- Skill Book Priority unless stated.
 
- 1. Raider Tank
- 2. Raider DPS
- 3. RaiderAlt
- 4. Alt
- 5. Other
+   1. Raider Tank
+   2. Raider DPS
+   3. RaiderAlt
+   4. Alt
+   5. Other
+
+- Scarab Token
+	- Send to guild bank for redistribution of quest items.
 
 ##### ZG
 
@@ -254,13 +260,19 @@ Skill Book Priority unless stated.
 Rules:
 1. Main spec over off spec.
 
-   > Gear should go to the respective archetype. However, users are not subect to all available gear. Caster gear is caster gear. 
+   > Gear should go to the respective archetype. However, users are not subect to all available gear. Caster gear is caster gear.
 
 2. Rolled loot is +1.
     > You cannot win two items until each person from the available rolls has collected an item.
 
-3. Rolling before greed roll is usage of +1.
+3. Rolling before 'greed roll' is usage of +1.
     > Also known as the "Promi" rule.
+
+### Future:
+
+- EPGP introduction to non progression raids.
+- Main/Alt expanded clarity.
+- 
 
 ## Frequently asked questions
 
