@@ -28,6 +28,7 @@
         - [AQ](#aq)
         - [ZG](#zg)
     - [PUG'ing with Haste](#puging-with-haste)
+    - [Future:](#future)
   - [Frequently asked questions](#frequently-asked-questions)
     - [Are world buffs required?](#are-world-buffs-required)
     - [What does 'rarely' mean?](#what-does-rarely-mean)
@@ -50,13 +51,13 @@ The goal of this document is to outline expectations from the guild and it's mem
 
 Our mission is to put a quality raid together under the unified tag of Haste. The expectation is that we all contribute in our best capacity. No more. No less.
 
-We're not multiple teams under one group. We're one group of people. No "A" team or "B" team. We look to make full use of our scheduled time to maximize production of loot.
+We're not multiple teams under one group. We're one group of people. No "A" team or "B" team. We look to make full use of our scheduled time to maximize production of loot. If we finish all content early in the schedule, our next goal s "split runs" with a tilt towards building the perfect raid.
 
 - We're a progression gaming group which leans toward hardcore.
 - We like to have fun. This often means exploring various aspects of the human condition together.
 - We tend to use loot council with analytics.
 - A core tenant of our system is to reward individuals who have dedicated themselves to those around them.
-- Raid days
+- Event/Raid timing
   - Tuesday through Thursday 6:30pm - 10:00pm PST
   - We'll do our best to schedule events within this window.
   - We'll do our best to keep events within this window.
@@ -67,7 +68,7 @@ We're not multiple teams under one group. We're one group of people. No "A" team
   - This means time, space, and effort.
   - Zero exceptions.
 - Come prepared to raid.  
-  - This means your character, your physical and mental self. 
+  - This means your character, your physical and mental wellbeing.
   - Check any attitude upon game login. See respect each others time.
 - Bring your best self.
 - Be ready to grow. No self limits.
