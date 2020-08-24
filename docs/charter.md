@@ -32,9 +32,10 @@ Thank you for taking the time to read this document, or explore raiding with <Ha
 	
 Our mission is to put a quality raid together under the unified tag of <Haste>. The expectation is that we all contribute in our best capacity. No more. No less. 
 
+We look to operate one 
+
 # Raid Structure
 
-	
 - Raid Roles: Each role is to be promoted with an Assist or (A) before raid kickoff.
 
 	- Raid Runner: This person is our 'conductor'. It rolls up to this individual.
@@ -90,43 +91,45 @@ Our mission is to put a quality raid together under the unified tag of <Haste>. 
 			
 # General Notes
 
-	• Guild Ranks and expectations.
+- Guild Ranks and expectations.
 	
-		○ GM 
-			§ Produce this document. 
-			§ Provide direction. 
-			§ Be the advocate for everyone.
+	- GM 
+		- Produce this document. 
+		- Provide direction. 
+		- Be the advocate for everyone.
 			
-		○ Officer
-			§ Scheduling
-			§ Ensure guild and individuals are staying true to our Haste ways.
+	- Officer
+		- Scheduling
+		- Ensure guild and individuals are staying true to our Haste ways.
 			
-		○ Class Champion
-			§ An individual nominated to the role by his peers in class.
-			§ The guild's multi directional conduit into various raid ceremonies such as Loot Council votes, Post Raid discussions, class raid assignments, etc.
-			§ Works with a Officer to introduce and explore concepts into raids and shape the guild.
+	- Class Champion
+		- An individual nominated to the role by his peers in class.
+		- The guild's multi directional conduit into various raid ceremonies such as Loot Council votes, Post Raid discussions, class raid assignments, etc.
+		- Works with a Officer to introduce and explore concepts into raids and shape the guild.
 		
-		○ Raider
-			§ Maintains the 3 Ps.
-				□ Performance.
-				□ Participation.
+	- Raider
+		- Maintains the 3 Ps.
+			- Performance.
+			- Participation.
 
-		○ Veteran
-			§ A casual rank within the guild for those who have completed an expansion with Haste.
+	- Veteran
+		- A casual rank within the guild for those who have completed an expansion with Haste.
 			
-		○ ALT
-			§ A persons alternate.
-		
-		○ Trial
-			§ A new member to the <Haste> family. 
+	- ALT
+		- A persons alternate.
+
+	- Trial	
+		- A new member to the <Haste> family. 
 	
-	• Raid 40 Content
-		○ Loot Council
-			§ There is no "Priority". There is progression.
+	
+# Raid/Zone	
+## Raid 40 Content
+- Loot Council
+	- There is no "Priority". There is progression.
 			
-	• Raid 20 Content
+## Raid 20 Content
 
-		○ ZG - EPGP
+### ZG - EPGP
 			§ EPGP
 				□ Raid must a hosted & confirmed raid by an officer or higher.
 				□ Each boss is worth 2EP
@@ -145,17 +148,21 @@ Our mission is to put a quality raid together under the unified tag of <Haste>. 
 
 # Frequently asked questions
 
-## Are world buffs required? Rarely. 
+## Are world buffs required?
+Rarely. 
 	
-## What does 'rarely' mean? It means bring your best self. Buffs welcome; however, not required. 
+## What does 'rarely' mean?
+It means bring your best self. Buffs welcome; however, not required. 
 		
-## When are world buffs required? When we’re pushing as a guild to reach and break new barriers. 
+## When are world buffs required?
+When we’re pushing as a guild to reach and break new barriers. 
 	
-## Should I flask? It depends. 
+## Should I flask?
+It depends. Do you need it to do your job?
 	
 ## I'm a Tank, should I flask? 
-		○ If you headlining the raid? Probably.
-		○ Off-tanking? Rare circumstances. 
+- If you headlining the raid? Probably.
+- Off-tanking? Rare circumstances. 
 	
 	
 	
