@@ -17,6 +17,8 @@
     - [Combat](#combat)
     - [Loot](#loot)
       - [Loot Council](#loot-council)
+        - [Council Commitment](#council-commitment)
+        - [Council Feedback](#council-feedback)
     - [WoW Classic Addons](#wow-classic-addons)
       - [Required Addon(s)](#required-addons)
       - [Optional (but strongly recommended)](#optional-but-strongly-recommended)
@@ -25,6 +27,7 @@
       - [Raid 20 Content](#raid-20-content)
         - [AQ](#aq)
         - [ZG](#zg)
+    - [PUG'ing with Haste](#puging-with-haste)
   - [Frequently asked questions](#frequently-asked-questions)
     - [Are world buffs required?](#are-world-buffs-required)
     - [What does 'rarely' mean?](#what-does-rarely-mean)
@@ -75,9 +78,9 @@ We're not multiple teams under one group. We're one group of people. No "A" team
 
 - Guild Ranks and expectations.
   - Guild Master
-    - Produce this document.
-    - Provide direction.
-    - Be the advocate for everyone.
+    - Produce this document
+    - Provide direction
+    - Be the advocate for everyone
   - Officer
     - Event scheduling
     - Ensure guild and individuals are staying true to our Haste ways.
@@ -85,11 +88,11 @@ We're not multiple teams under one group. We're one group of people. No "A" team
     - An individual nominated to the role by his peers in class.
     - The guild's multi directional conduit into various raid ceremonies such as Loot Council votes, Post Raid discussions, class raid assignments, etc.
     - Works with a Officer to introduce and explore concepts into raids and shape the guild.
-  
   - Raider
-    - Maintains the 3 Ps.
-      - Performance.
-      - Participation.
+    - Maintains the 3 P's.
+      - Preparation
+      - Participation
+      - Performance
     - Veteran
       - A casual rank within the guild for those who have completed an expansion with Haste.
     - ALT
@@ -170,6 +173,14 @@ The council is made up of many individuals within the guild. It's a cross sectio
 |guild tenure | are they going anywhere?|
 |did they have all the requested criteria met?| did they read this document?
 
+##### Council Commitment
+
+As mentioned above, the council is a cross section of the guild. The goal is that diversity provides perspective to create a fair process for deciding the most optimal placement of loot within the guild.
+
+##### Council Feedback
+
+So something didn't go your way, or would like some clarity on thing? Let's discuss AFTER the raid. 
+
 ### WoW Classic Addons
 
 #### Required Addon(s)
@@ -233,6 +244,19 @@ Skill Book Priority unless stated.
     - Requested in #guild-crafting-requests.
   - Coins are free roll.
 
+### PUG'ing with Haste
+
+Rules:
+1. Main spec over off spec.
+
+   > Gear should go to the respective archetype. However, users are not subect to all available gear. Caster gear is caster gear. 
+
+2. Rolled loot is +1.
+    > You cannot win two items until each person from the available rolls has collected an item.
+
+3. Rolling before greed roll is usage of +1.
+    > Also known as the "Promi" rule.
+
 ## Frequently asked questions
 
 ### Are world buffs required?
@@ -254,4 +278,4 @@ It depends. Do you need it to do your job?
 ### I'm a Tank! Should I flask?
 
 - If you headlining the raid? Probably.
-- Off-tanking? Rare circumstances.
+- Off-tanking? Rare circumstances
