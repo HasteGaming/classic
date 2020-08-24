@@ -2,21 +2,22 @@
 
 Hello. 
 
-Thank you for taking the time to read this document, or explore raiding with <Haste>. 
+Thank you for taking the time to read this document, or explore raiding with Haste. 
 
 The goal of this document is to outline expectations from the guild and it's members. This is a living document which will be updated over time to reflect the current state. The goal of this document is to outline who we are and are not. 
 		
 # Our mission
 	
-Our mission is to put a quality raid together under the unified tag of <Haste>. The expectation is that we all contribute in our best capacity. No more. No less. 
+Our mission is to put a quality raid together under the unified tag of Haste. The expectation is that we all contribute in our best capacity. No more. No less. 
 
 - We're a progression gaming group which leans toward hardcore. 
 - We like to have fun. This often means exploring various aspects of the human condition together.
 - We tend to use loot council with analytics.
 - A core tenant of our system is to reward individuals who have dedicated themselves to those around them. 
-- Raid days:
+- Raid days
 	- Tuesday through Thursday 6:30pm - 10:00pm PST
-		- We'll do our best to stay within this window.
+		- We'll do our best to schedule events within this window.
+		- We'll do our best to keep events within this window.
 
 
 # Individual expectations
@@ -35,20 +36,20 @@ Our mission is to put a quality raid together under the unified tag of <Haste>. 
 
 # Raiding
 
-## Where and how
+### Where and how
 
 Discord. Rosters are managed via spreadsheet. 
 
-## Raid Flow/Timing
+### Raid Flow/Timing
 
-6:00pm -- Invites start.
-6:10pm -- Travel group leaves
-6:25pm -- Log in for buffs
-6:30pm -- Slay!
-8:15pm -- Drink water & resume slaying!
-10:00pm -- We're officially done. Thank you. 
+- 6:00pm -- Invites start.
+- 6:10pm -- Travel group leaves
+- 6:25pm -- Log in for buffs
+- 6:30pm -- Slay!
+- 8:15pm -- Drink water & resume slaying!
+- 10:00pm -- We're officially done. Thank you. 
 
-## Raid Roles
+### Raid Roles
 
 Each role is to be promoted with an Assist or (A) before raid kickoff.
 
@@ -66,24 +67,7 @@ Each role is to be promoted with an Assist or (A) before raid kickoff.
 	- Hunters , Warlocks, Druids, Mages, Warriors, Priest. Do your job on the pull. Communicate with those around you. The pull only starts with the first shot, and finishes when we're drinking.
 		- Pull timers. Use them.
 
-## WoW Classic Addons
-### Required Addon(s):
-- Deadly Boss Mods (DBM)
-	- Don't stand in the fire dummy! JK, but srsly.
-
-- Classic Loot Assist
-	- Loot the dog. Thank you. 
-				
-- RC_LootCouncil (+ EPGP)
-	- Required for loot participation & distribution. 
-			
-### Optional (but strongly recommended):
-- Group Calendar
-	- Our common scheduling tool to share and coordinate off schedule content.
-- CEPGP
-	- This allows easy visibility into backing EP/GP system.
-
-## Combat
+### Combat
 - Communications
 	- Clear, calm, concise. 
 	- Voice channels are to be cleared within 3 trash packs of a boss to enable respectful coordination prior to boss engagement. 
@@ -100,15 +84,34 @@ Each role is to be promoted with an Assist or (A) before raid kickoff.
 	3. Blue Square 
 	4. Moon	
 	
-## Loot
+### Loot
 
 Progression Loot Distribution is Loot council driven by analytics.
 			
 - The primary goal of the loot council is to distribute loot in an evenly and fair. Typically this means the group has 75% agreement or more.
 - The council is made up of voted peers. These individuals will have the rank of Class Champion, and will have access to officer chat.
 - Champions “elections” will happen quarterly/content patch if vacant.
-- Loot from any instance is not to be 'Need' rolled & sold to another <Haste> member.
+- Loot from any instance is not to be 'Need' rolled & sold to another Haste member.
 	- Items won via the "Greed" roll can be traded/sold.
+
+### WoW Classic Addons
+#### Required Addon(s):
+- Deadly Boss Mods (DBM)
+	- Don't stand in the fire dummy! JK, but srsly.
+
+- Classic Loot Assist
+	- Loot the dog. Thank you. 
+				
+- RC_LootCouncil (+ EPGP)
+	- Required for loot participation & distribution. 
+			
+#### Optional (but strongly recommended):
+- Group Calendar
+	- Our common scheduling tool to share and coordinate off schedule content.
+- CEPGP
+	- This allows easy visibility into backing EP/GP system.
+
+
 	
 			
 # Guild Roles and Responsibilities
