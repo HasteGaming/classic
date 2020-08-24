@@ -150,28 +150,33 @@ Each role is to be promoted with an Assist or (A) before raid kickoff.
 
 ### Loot
 
-Progression Loot Distribution is Loot council driven by analytics.
+Progression Loot Distribution is Loot council driven by analytics. Smaller raids such as Zul'Gurrub are done with Need over Greed, and EPGP for Idols.
 
-- The primary goal of the loot council is to distribute loot in an evenly and fair. Typically this means the group has 75% agreement or more.
-- The council is made up of voted peers. These individuals will have the rank of Class Champion, and will have access to officer chat.
-- Champions “elections” will happen quarterly/content patch if vacant.
-- Loot from any instance is not to be 'Need' rolled & sold to another Haste member.
-  - Items won via the "Greed" roll can be traded/sold.
+Loot from any instance is not to be 'Need' rolled, and then sold to another Haste member.
+  > Exception: Items won via the "Greed" roll can be traded/sold.
 
 #### Loot Council
 
 The council is made up of many individuals within the guild. It's a cross section of all layers within the guild by design to ensure that all members have the ability to be involved & ensure integrity & fairness to all.
 
+- The primary goal of the loot council is to distribute loot in an evenly and fair.
+  - Typically this means the group has 80% agreement or more from the selected comittee.
+- The council is not static
+  - These individuals will have the rank of Class Champion, Officers, Raiders, and GM Roles. 
+- The active council will have access to 'officer' chat to discuss item distribution.
+- The council will be adjusted to ensure healthy voting numbers.
+- Champions “elections” will happen near quarterly/content patch if vacant.
+
 |Things we consider   | Why we consider it   |
 |---|---|
-|Recently received gear | It's important that effort is rewarded.   |
-| Raid impact | does this item make a difference to the raid|
-| enchants | did this person enchant thier stuff?|
-| raid participtation | do they show up? will this item show back up in a raid?|
-| raid performance | does this person kick butt?|
-| raid attitude | does this person make raiding a pleasure? Or are they a fuck face|
-|guild tenure | are they going anywhere?|
-|did they have all the requested criteria met?| did they read this document?
+| Recently acquired gear | It displays work in and out of the raid   |
+| Gear prep | Did they take the time to maximize what they have not knowing when their next upgrade would be |
+| Raid impact | Does this item make a difference to the raid |
+| Raid participtation | do they show up? will this item show back up in a raid?|
+| Raid performance | Does this person kick butt? The monster ones.|
+| Raid attitude | Does this person make raiding a pleasure? Or are they a fuck face. |
+| Tenure | Time is a great measure of an individuals character |
+| Meeting expectations | did they read this document?
 
 ##### Council Commitment
 
@@ -234,8 +239,8 @@ Skill Book Priority unless stated.
 
 - Loot
   - Idol
-    - Only one Idol per player per ZG regardless of EPGP Ratio.
-    - Priority goes to highest EPGP Ratio.
+    - Only one Idol per player per ZG regardless of EPGP Ratio unless agreed by raid team.
+    - Priority goes to Lowest Ratio (someone who hasn't received one yet).
     - Should be expressed early (raid start) and before boss pull if you plan to utilize EP/GP for priority.
     - Character should be active 40 man roster raider.
 
