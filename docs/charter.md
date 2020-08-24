@@ -5,25 +5,25 @@ Welcome. Thank you for taking the time to read this document, or explore raiding
 
 # Quick overview
 
-1. We're a semi hardcore group which leans toward hardcore. 
-2. We like to have fun. This often means exploring various aspects of the human condition together.
-3. We run multiple raids with the goal of maximizing guild strength. Guild strength is measured by production of highest ilevel loot from the highest level of content within our raid schedule.
-4. Raid days: Tues-Thurs 6:30pm - 10:00pm PST. 
-5. We use loot council backed with EPGP & progression focus.
-6. A core tenant of our system is to reward individuals who have dedicated themselves to those around them. 
+- We're a semi hardcore group which leans toward hardcore. 
+- We like to have fun. This often means exploring various aspects of the human condition together.
+- We run multiple raids with the goal of maximizing guild strength. Guild strength is measured by production of highest ilevel loot from the highest level of content within our raid schedule.
+- Raid days: Tues-Thurs 6:30pm - 10:00pm PST. 
+- We use loot council backed with EPGP & progression focus.
+- A core tenant of our system is to reward individuals who have dedicated themselves to those around them. 
 		
 # Individual expectations
 
-		○ Respect each other. 
-			§ This means time, space, and effort. 
-			§ Zero exceptions. 
-		○ Come prepared to raid.  
-			§ This means your character, your physical and mental self. 
-			§ Check any attitude upon game login. See respect each others time. 
-		○ Bring your best self.
-		○ Be ready to grow. 
-		○ No cheats, exploits, or scams.
-		○ Have fun. It’s a game.  
+- Respect each other. 
+	- This means time, space, and effort. 
+	- Zero exceptions. 
+- Come prepared to raid.  
+	- This means your character, your physical and mental self. 
+	- Check any attitude upon game login. See respect each others time. 
+- Bring your best self.
+	- Be ready to grow. 
+- No cheats, exploits, or scams.
+- Have fun. It’s a game.  
 		
 
 # Raiding with Haste:
