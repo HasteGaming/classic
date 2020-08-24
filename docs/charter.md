@@ -28,7 +28,7 @@
         - [AQ](#aq)
         - [ZG](#zg)
     - [PUG'ing with Haste](#puging-with-haste)
-    - [Future:](#future)
+    - [Upcoming additions](#upcoming-additions)
   - [Frequently asked questions](#frequently-asked-questions)
     - [Are world buffs required?](#are-world-buffs-required)
     - [What does 'rarely' mean?](#what-does-rarely-mean)
@@ -220,6 +220,13 @@ The feedback channels are to use **Class Champions**, **Officers**, and potentia
   - Loot the sand.
 - MC
   - Loot the dogs.
+- Onyxia
+  - Onyxia Hide Bag(s)
+    > Max Bag count: **2** (Aug 2020)
+    - Each individual is allowed to roll until they've received the max bag count.
+    - Bag count is per individual.
+      - Do not roll for bags on your alt unless you want to use your bag count.	
+    - The bag count increments when the raid group has reached high saturation.
 
 #### Raid 20 Content
 
@@ -233,8 +240,8 @@ The feedback channels are to use **Class Champions**, **Officers**, and potentia
    4. Alt
    5. Other
 
-- Scarab Token
-	- Send to guild bank for redistribution of quest items.
+- Scarab Tokens
+  - Send to guild bank for redistribution with usage of quest items.
 
 ##### ZG
 
@@ -258,22 +265,31 @@ The feedback channels are to use **Class Champions**, **Officers**, and potentia
 
 ### PUG'ing with Haste
 
-Rules:
-1. Main spec over off spec.
+Occasionally, we'll need to fill from the outside world. When we do so, we look to continue to embrace the quality standards which we expect from any raid. We've learned that we should baseline a few rules to ensure we've covered bases.
 
-   > Gear should go to the respective archetype. However, users are not subect to all available gear. Caster gear is caster gear.
+Our "house" rules will be covered verbally prior to raid start. If no objection is made, these rules are binding to the raid & the individuals until completion.
 
-2. Rolled loot is +1.
+Rules (unless stated otherwise):
+
+1. Main spec over off spec;
+   > Gear should go to the respective archetype. However, users are not subect to all available gear. Caster gear is caster gear. 
+
+2. Rolled loot is +1;
     > You cannot win two items until each person from the available rolls has collected an item.
 
-3. Rolling before 'greed roll' is usage of +1.
+3. Any rolling before an official 'greed roll' is considered usage of +1;
     > Also known as the "Promi" rule.
 
-### Future:
+4. Materials;
+   > Materials include all dungeon specific resources unless explicitly stated in this document.
+
+5. Legendary items;
+   > Legendary items on standing reseve include Eye of Sulfuras, Binding(s) of the Windseeker, Splinter of Atiesh.
+
+### Upcoming additions
 
 - EPGP introduction to non progression raids.
 - Main/Alt expanded clarity.
-- 
 
 ## Frequently asked questions
 
