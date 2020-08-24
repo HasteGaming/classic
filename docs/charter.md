@@ -1,6 +1,8 @@
 # FOREWORD
 
-Welcome. Thank you for taking the time to read this document, or explore raiding with <Haste>.  This is a living document, and it will be updated over time to reflect the current state of our expansion unit.
+Hello. 
+
+Thank you for taking the time to read this document, or explore raiding with <Haste>.  This is a living document, and it will be updated over time to reflect the current state.
 
 
 # Quick overview
@@ -26,60 +28,62 @@ Welcome. Thank you for taking the time to read this document, or explore raiding
 - Have fun. It’s a game.  
 		
 
-# Raiding with Haste:
+# Raiding with <Haste>
 	
 Our mission is to put a quality raid together under the unified tag of <Haste>. The expectation is that we all contribute in our best capacity. No more. No less. 
 	
-		○ Roles: Each role is to be promoted with an Assist or (A) before raid kickoff.
+		- Roles: Each role is to be promoted with an Assist or (A) before raid kickoff.
 
-			§ Raid Runner: This person is our 'conductor'. It rolls up to this individual.
-			§ Class Champions: Each group has a seat at our table. These individuals are responsible for coordinating their groups with the larger group.
-			§ Tanking: Work with the pull team & raid runner to correctly execute position for our raid.
-			§ DPS: Kill it. Don't die.
-			§ Pull Team: Hunters , Warlocks, Druids, Mages, Warriors, Priest…Everyone.. Do your job on the pull. Communicate with those around you. The pull only starts with the first shot, and finishes when we're drinking.
+			- Raid Runner: This person is our 'conductor'. It rolls up to this individual.
+			- Class Champions: Each group has a seat at our table. These individuals are responsible for coordinating their groups with the larger group.
+			- Tanking: Work with the pull team & raid runner to correctly execute position for our raid.
+			- DPS: 
+				- Kill it. Don't die.
+				- Dead dps = bad. Not a tank problem.
+			- Pull Team: Hunters , Warlocks, Druids, Mages, Warriors, Priest. Do your job on the pull. Communicate with those around you. The pull only starts with the first shot, and finishes when we're drinking.
 
-		○ Required Addon(s):
-			§ Deadly Boss Mods (DBM)
-				□ Don't stand in the fire dummy! JK, but srsly.
+		- Required Addon(s):
+			- Deadly Boss Mods (DBM)
+				- Don't stand in the fire dummy! JK, but srsly.
 				
-			§ Classic Loot Assist
-				□ Loot the dog. Thank you. 
+			- Classic Loot Assist
+				- Loot the dog. Thank you. 
 				
-			§ RC_LootCouncil (+ EPGP)
-				□ Required for loot participation & distribution. 
+			- RC_LootCouncil (+ EPGP)
+				- Required for loot participation & distribution. 
 			
-			§ Optional (but strongly recommended):
-				□ Group Calendar
-					§ Our common scheduling tool to share and coordinate off schedule content.
-				□ CEPGP
-					§ This allows easy visibility into backing EP/GP system.
+			- Optional (but strongly recommended):
+				- Group Calendar
+					- Our common scheduling tool to share and coordinate off schedule content.
+				- CEPGP
+					- This allows easy visibility into backing EP/GP system.
 				
 	
-		○ Loot
-			§ Progression Loot Distribution is Loot council driven by analytics.
-			§ The primary goal of the loot council is to distribute loot in an evenly and fair. Typically this means the group has 75% agreement or more.
-			§ The council is made up of voted peers. These individuals will have the rank of Class Champion, and will have access to officer chat.
-			§ Champions “elections” will happen quarterly/content patch if vacant.
-			§ Loot from any instance is not to be 'Need' rolled & sold to another <Haste> member.
-				□ Items won via the "Greed" roll can be traded/sold.
+		- Loot
+			- Progression Loot Distribution is Loot council driven by analytics.
+			- The primary goal of the loot council is to distribute loot in an evenly and fair. Typically this means the group has 75% agreement or more.
+			- The council is made up of voted peers. These individuals will have the rank of Class Champion, and will have access to officer chat.
+			- Champions “elections” will happen quarterly/content patch if vacant.
+			- Loot from any instance is not to be 'Need' rolled & sold to another <Haste> member.
+				- Items won via the "Greed" roll can be traded/sold.
 	
 				
 		
-		○ Combat:
-			§ Communications
-				□ Voice channels are to be cleared within 3 trash packs of a boss to enable respectful coordination prior to boss engagement. 
+		- Combat:
+			- Communications
+				- Voice channels are to be cleared within 3 trash packs of a boss to enable respectful coordination prior to boss engagement. 
 				
-			§ Strategy
-				□ Do your job. Don't know what to do? Ask.
+			- Strategy
+				- Do your job. Don't know what to do? Ask.
 			
-			§ Staying alive
-				□ Dead people don't DPS. 
+			- Staying alive
+				- Dead people don't DPS. 
 				
-			§ Default Kill Order:
-				□ Skull
-				□ Cross / "x"
-				□ Blue Square 
-				□ Moon
+			- Default Kill Order:
+				- Skull
+				- Cross / "x"
+				- Blue Square 
+				- Moon
 			
 # General Notes
 
