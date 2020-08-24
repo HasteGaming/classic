@@ -4,15 +4,13 @@ Hello.
 
 Thank you for taking the time to read this document, or explore raiding with <Haste>.  This is a living document, and it will be updated over time to reflect the current state.
 
-
-# Quick overview
-
-- We're a semi hardcore group which leans toward hardcore. 
+- We're a progression gaming group which leans toward hardcore. 
 - We like to have fun. This often means exploring various aspects of the human condition together.
-- We run multiple raids with the goal of maximizing guild strength. Guild strength is measured by production of highest ilevel loot from the highest level of content within our raid schedule.
-- Raid days: Tues-Thurs 6:30pm - 10:00pm PST. 
-- We use loot council backed with EPGP & progression focus.
+- We use loot council with analytics.
 - A core tenant of our system is to reward individuals who have dedicated themselves to those around them. 
+- Raid days:
+	- We wil
+	- Tues-Thurs 6:30pm - 10:00pm PST. 
 		
 # Individual expectations
 
@@ -34,7 +32,7 @@ Our mission is to put a quality raid together under the unified tag of <Haste>. 
 
 We look to operate one 
 
-# Raid Structure
+# Raiding
 
 - Raid Roles: Each role is to be promoted with an Assist or (A) before raid kickoff.
 
@@ -89,7 +87,7 @@ We look to operate one
 			- Blue Square 
 			- Moon
 			
-# General Notes
+# Roles and Responsibilities
 
 - Guild Ranks and expectations.
 	
@@ -111,6 +109,9 @@ We look to operate one
 		- Maintains the 3 Ps.
 			- Performance.
 			- Participation.
+	
+	- RaiderAlt
+		- An alternate character who is ready. 
 
 	- Veteran
 		- A casual rank within the guild for those who have completed an expansion with Haste.
@@ -124,27 +125,35 @@ We look to operate one
 	
 # Raid/Zone	
 ## Raid 40 Content
-- Loot Council
-	- There is no "Priority". There is progression.
+- AQ
 			
 ## Raid 20 Content
 
+### AQ
+- Skill Book Priority
+	1. Raider
+	2. RaiderAlt
+	3. Alt
+	4. Other
+
 ### ZG
 - EPGP
+	- GP is used to track idol distribution.
 	- Raid must a hosted & confirmed raid by an officer or higher.
 	- Each boss is worth 2 EP.
 	- Hakkar is worth 3 EP.
-				
-	- Bijou
-		- Send to guild bank to be redistributed for ZG shoulder enchants. 
-		- Requested in #guild-crafting-requests.
-				
+
+- Loot			
 	- Idol
 		- Only one Idol per player per ZG regardless of EPGP Ratio. 
 		- Priority goes to highest EPGP Ratio. 
 			- Should be expressed early (raid start) and before boss pull if you plan to utilize EP/GP for priority.
 			- Character should be active 40 man roster raider.
-			§ Coins are free roll.
+
+	- Bijou
+		- Send to guild bank to be redistributed for ZG shoulder enchants. 
+		- Requested in #guild-crafting-requests.
+	- Coins are free roll.
 
 # Frequently asked questions
 
@@ -160,10 +169,11 @@ When we’re pushing as a guild to reach and break new barriers.
 ### Should I flask?
 It depends. Do you need it to do your job?
 	
-### I'm a Tank, should I flask? 
+### I'm a Tank! Should I flask? 
 - If you headlining the raid? Probably.
 - Off-tanking? Rare circumstances. 
-	
+
+
 	
 	
 
