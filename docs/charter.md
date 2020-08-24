@@ -1,9 +1,9 @@
-FOREWORD
+# FOREWORD
 
 Welcome. Thank you for taking the time to read this document, or explore raiding with <Haste>.  This is a living document, and it will be updated over time to reflect the current state of our expansion unit.
 
 
-Quick overview
+# Quick overview
 
 		○ We're a semi hardcore group which leans toward hardcore. 
 		○ We like to have fun. This often means exploring various aspects of the human condition together.
@@ -12,7 +12,7 @@ Quick overview
 		○ We use loot council backed with EPGP & progression focus.
 		○ A core tenant of our system is to reward individuals who have dedicated themselves to those around them. 
 		
-Individual expectations
+# Individual expectations
 
 		○ Respect each other. 
 			§ This means time, space, and effort. 
@@ -26,7 +26,7 @@ Individual expectations
 		○ Have fun. It’s a game.  
 		
 
-Raiding with Haste:
+# Raiding with Haste:
 	
 Our mission is to put a quality raid together under the unified tag of <Haste>. The expectation is that we all contribute in our best capacity. No more. No less. 
 	
@@ -81,7 +81,7 @@ Our mission is to put a quality raid together under the unified tag of <Haste>. 
 				□ Blue Square 
 				□ Moon
 			
-General Notes
+# General Notes
 
 	• Guild Ranks and expectations.
 	
@@ -118,6 +118,7 @@ General Notes
 			§ There is no "Priority". There is progression.
 			
 	• Raid 20 Content
+
 		○ ZG - EPGP
 			§ EPGP
 				□ Raid must a hosted & confirmed raid by an officer or higher.
@@ -135,17 +136,17 @@ General Notes
 				□ Character should be active 40 man roster raider.
 			§ Coins are free roll.
 
-Frequently asked questions
+# Frequently asked questions
 
-	○ Are world buffs required? Rarely. 
+## Are world buffs required? Rarely. 
 	
-	○ What does 'rarely' mean? It means bring your best self. Buffs welcome; however, not required. 
+## What does 'rarely' mean? It means bring your best self. Buffs welcome; however, not required. 
 		
-	○ When are world buffs required? When we’re pushing as a guild to reach and break new barriers. 
+## When are world buffs required? When we’re pushing as a guild to reach and break new barriers. 
 	
-	○ Should I flask? It depends. 
+## Should I flask? It depends. 
 	
-	○ I'm a Tank, should I flask? 
+## I'm a Tank, should I flask? 
 		○ If you headlining the raid? Probably.
 		○ Off-tanking? Rare circumstances. 
 	
