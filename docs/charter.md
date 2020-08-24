@@ -129,38 +129,38 @@ We look to operate one
 			
 ## Raid 20 Content
 
-### ZG - EPGP
-			§ EPGP
-				□ Raid must a hosted & confirmed raid by an officer or higher.
-				□ Each boss is worth 2EP
-				□ Hakkar is worth 3 EP.
+### ZG
+- EPGP
+	- Raid must a hosted & confirmed raid by an officer or higher.
+	- Each boss is worth 2 EP.
+	- Hakkar is worth 3 EP.
 				
-			§ Bijou
-				□ Send to guild bank to be redistributed for ZG shoulder enchants. 
-				□ Requested in #guild-crafting-requests.
+	- Bijou
+		- Send to guild bank to be redistributed for ZG shoulder enchants. 
+		- Requested in #guild-crafting-requests.
 				
-			§ Idol
-				□ Only one Idol per player per ZG regardless of EPGP Ratio. 
-				□ Priority goes to highest EPGP Ratio. 
-					® Should be expressed early (raid start) and before boss pull if you plan to utilize EP/GP for priority.
-				□ Character should be active 40 man roster raider.
+	- Idol
+		- Only one Idol per player per ZG regardless of EPGP Ratio. 
+		- Priority goes to highest EPGP Ratio. 
+			- Should be expressed early (raid start) and before boss pull if you plan to utilize EP/GP for priority.
+			- Character should be active 40 man roster raider.
 			§ Coins are free roll.
 
 # Frequently asked questions
 
-## Are world buffs required?
+### Are world buffs required?
 Rarely. 
 	
-## What does 'rarely' mean?
+### What does 'rarely' mean?
 It means bring your best self. Buffs welcome; however, not required. 
 		
-## When are world buffs required?
+### When are world buffs required?
 When we’re pushing as a guild to reach and break new barriers. 
 	
-## Should I flask?
+### Should I flask?
 It depends. Do you need it to do your job?
 	
-## I'm a Tank, should I flask? 
+### I'm a Tank, should I flask? 
 - If you headlining the raid? Probably.
 - Off-tanking? Rare circumstances. 
 	
