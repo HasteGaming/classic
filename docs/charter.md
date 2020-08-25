@@ -10,6 +10,8 @@
   - [Our mission](#our-mission)
   - [Individual expectations](#individual-expectations)
   - [Guild Roles and Responsibilities](#guild-roles-and-responsibilities)
+    - [Guild Ranks and expectations.](#guild-ranks-and-expectations)
+    - [Member Progression](#member-progression)
   - [Raiding with Haste](#raiding-with-haste)
     - [Where and how](#where-and-how)
     - [Raid Flow/Timing](#raid-flowtiming)
@@ -35,6 +37,7 @@
     - [When are world buffs required?](#when-are-world-buffs-required)
     - [Should I flask?](#should-i-flask)
     - [I'm a Tank! Should I flask?](#im-a-tank-should-i-flask)
+  - [Appendix](#appendix)
 
 <!-- /code_chunk_output -->
 
@@ -77,29 +80,42 @@ We're not multiple teams under one group. We're one group of people. No "A" team
 
 ## Guild Roles and Responsibilities
 
-- Guild Ranks and expectations.
-  - Guild Master
-    - Produce this document
-    - Provide direction
-    - Be the advocate for everyone
-  - Officer
-    - Event scheduling
-    - Ensure guild and individuals are staying true to our Haste ways.
-  - Class Champion
-    - An individual nominated to the role by his peers in class.
-    - The guild's multi directional conduit into raid ceremonies such as Loot Council votes, Post Raid discussions, class raid assignments, etc.
-    - Works with a Officer to introduce and explore concepts into raids and shape the guild.
-  - Raider
-    - Maintains the 3 P's.
-      - Preparation
-      - Participation
-      - Performance
-    - Veteran
+### Guild Ranks and expectations.
+
+- Guild Master
+  - Produce this document
+  - Provide direction
+  - Be the advocate for everyone
+- Officer
+  - Event scheduling
+  - Ensure guild and individuals are staying true to our Haste ways.
+- Class Champion
+  - An individual nominated to the role by his peers in class.
+  - The guild's multi directional conduit into raid ceremonies such as Loot Council votes, Post Raid discussions, class raid assignments, etc.
+  - Works with a Officer to introduce and explore concepts into raids and shape the guild.
+- Raider
+  - Maintains the 3 P's.
+    - Preparation
+    - Participation
+    - Performance
+- Veteran
       - A casual rank within the guild for those who have completed an expansion with Haste.
-    - ALT
+- ALT
       - A persons alternate.
-    - Trial
+- Member
+  - A casual member.
+- Trial
       - A new member to the Haste family.
+
+### Member Progression
+
+- Trial
+  > Usually ~750 Effort Points worth of guild events until individual is evaluated by Class peers & Champions.
+- Member
+  > An up and coming member who continues to earn their stripes. Typically reviewed after ~1500 Effort Points.
+- Raider
+  > An active Raider within the Haste community.
+- Class Champion
 
 ## Raiding with Haste
 
@@ -154,7 +170,7 @@ Each role is to be promoted with an Assist or (A) before raid kickoff.
 Progression Loot Distribution is Loot council driven by analytics. Smaller raids such as Zul'Gurrub are done with Need over Greed, and EPGP for Idols.
 
 Loot from any instance is not to be 'Need' rolled, and then sold to another Haste member.
-  > Exception: Items won via the "Greed" roll can be traded/sold.
+  > Exception: Items won via the "Greed" roll may be traded or sold.
 
 #### Loot Council
 
@@ -163,21 +179,22 @@ The council is made up of many individuals within the guild. It's a cross sectio
 - The primary goal of the loot council is to distribute loot in an evenly and fair.
   - Typically this means the group has 80% agreement or more from the selected comittee.
 - The council is not static
-  - These individuals will have the rank of Class Champion, Officers, Raiders, and GM Roles. 
+- The council is made up of individuals from the rank of Class Champion, Officers, Raiders, and GM roles.
 - The active council will have access to 'officer' chat to discuss item distribution.
 - The council will be adjusted to ensure healthy voting numbers.
+- Votes not resulting in a clear winner will will have ties broken by elevating to the highest rank available for executive decision.
 - Champions “elections” will happen near quarterly/content patch if vacant.
 
-|Things we consider   | Why we consider it   |
-|---|---|
-| Recently acquired gear | It displays work in and out of the raid   |
-| Gear prep | Did they take the time to maximize what they have not knowing when their next upgrade would be |
-| Raid impact | Does this item make a difference to the raid |
-| Raid participtation | do they show up? will this item show back up in a raid?|
-| Raid performance | Does this person kick butt? The monster ones.|
-| Raid attitude | Does this person make raiding a pleasure? Or are they a fuck face. |
-| Tenure | Time is a great measure of an individuals character |
-| Meeting expectations | Did they read this document?
+|Things we consider   |  Questions we ask  | Why?
+|---|---|---|
+| Recently acquired gear |  Have they made recent improvements? When was thier last upgrade?   | It displays work in and out of the raid |
+| Raid prep | Have they taken the time to prepare their character? | Explore the range of their prep. Prep is many things. |
+| Raid impact | Can this item impact the raid? | We always want to measure impact |
+| Raid participtation | Does this person contribute to the actively contribute to the raid? | It's always nice when people take initiative. |
+| Raid performance | Does this person kick butt? | A primary objective, slay monsters! |
+| Raid attitude | Does this person make raiding a pleasure? Or are they a fuck face? | Self-explanatory |
+| Tenure | What does history say? | Time is a great measure of an individuals character. |
+| Meeting expectations | Did they read this document? | Sometimes it's the basics |
 
 ##### Council Commitment
 
@@ -216,7 +233,7 @@ The feedback channels are to use **Class Champions**, **Officers**, and potentia
 - Naxx
 - AQ
 - BWL
-  - Broodlord: no curse of Reck. <3
+  - Broodlord: **NO** Curse of Reck. <3
   - Loot the sand.
 - MC
   - Loot the dogs.
@@ -313,3 +330,10 @@ It depends. Do you need it to do your job?
 
 - If you headlining the raid? Probably.
 - Off-tanking? Rare circumstances
+
+## Appendix
+
+- Effort Points / EP
+  > Points awarded per boss kill/session to account for spent "effort".
+- Gear Points / GP
+  > Points awarded to a character to symbolize acquisition of an item.
