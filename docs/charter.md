@@ -10,8 +10,9 @@
   - [Our mission](#our-mission)
   - [Individual expectations](#individual-expectations)
   - [Guild Roles and Responsibilities](#guild-roles-and-responsibilities)
-    - [Guild Ranks and expectations.](#guild-ranks-and-expectations)
-    - [Member Progression](#member-progression)
+    - [Guild Ranks and expectations](#guild-ranks-and-expectations)
+    - [Member Rank Progression](#member-rank-progression)
+    - [Member Removal](#member-removal)
   - [Raiding with Haste](#raiding-with-haste)
     - [Where and how](#where-and-how)
     - [Raid Flow/Timing](#raid-flowtiming)
@@ -46,7 +47,7 @@
 
 Hello.
 
-Thank you for taking the time to read this document, or explore gaming with Haste.
+Thank you for taking the time to read this document, or to explore gaming with Haste.
 
 The goal of this document is to outline expectations from the guild and it's members. This is a living document which will be updated over time to reflect the current state. The goal of this document is to outline who we are and are not. Moreover, we should not be confined to what is explicitly stated within this document when it comes to ethics, teamwork, and respect with eachother.
 
@@ -80,7 +81,7 @@ We're not multiple teams under one group. We're one group of people. No "A" team
 
 ## Guild Roles and Responsibilities
 
-### Guild Ranks and expectations.
+### Guild Ranks and expectations
 
 - Guild Master
   - Produce this document
@@ -107,7 +108,7 @@ We're not multiple teams under one group. We're one group of people. No "A" team
 - Trial
       - A new member to the Haste family.
 
-### Member Progression
+### Member Rank Progression
 
 - Trial
   > Usually ~750 Effort Points worth of guild events until individual is evaluated by Class peers & Champions.
@@ -116,6 +117,11 @@ We're not multiple teams under one group. We're one group of people. No "A" team
 - Raider
   > An active Raider within the Haste community.
 - Class Champion
+  > See an Officer
+
+### Member Removal
+
+We are an at-will raiding organization. If the member violates explic
 
 ## Raiding with Haste
 
@@ -230,14 +236,14 @@ The feedback channels are to use **Class Champions**, **Officers**, and potentia
 
 #### Raid 40 Content
 
-- Naxx
-- AQ
-- BWL
+##### Naxx
+##### AQ
+##### BWL
   - Broodlord: **NO** Curse of Reck. <3
   - Loot the sand.
-- MC
+##### MC
   - Loot the dogs.
-- Onyxia
+##### Onyxia
   - Onyxia Hide Bag(s)
     > Max Bag count: **2** (Aug 2020)
     - Each individual is allowed to roll until they've received the max bag count.
