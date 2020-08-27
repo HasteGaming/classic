@@ -258,7 +258,7 @@ The feedback channels are to use **Class Champions**, **Officers**, and potentia
 - Skill Book Priority unless stated.
 
    1. Raider Tank
-   2. Raider DPS
+   2. Raider
    3. RaiderAlt
    4. Alt
    5. Other
