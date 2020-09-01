@@ -27,8 +27,13 @@
       - [Optional (but strongly recommended)](#optional-but-strongly-recommended)
     - [Raid/Zone specific notes](#raidzone-specific-notes)
       - [Raid 40 Content](#raid-40-content)
-      - [Raid 20 Content](#raid-20-content)
+        - [Naxx](#naxx)
         - [AQ](#aq)
+        - [BWL](#bwl)
+        - [MC](#mc)
+        - [Onyxia](#onyxia)
+      - [Raid 20 Content](#raid-20-content)
+        - [AQ](#aq-1)
         - [ZG](#zg)
     - [PUG'ing with Haste](#puging-with-haste)
     - [Upcoming additions](#upcoming-additions)
@@ -49,16 +54,16 @@ Hello.
 
 Thank you for taking the time to read this document, or to explore gaming with Haste.
 
-The goal of this document is to outline expectations from the guild and it's members. This is a living document which will be updated over time to reflect the current state. The goal of this document is to outline who we are and are not. Moreover, we should not be confined to what is explicitly stated within this document when it comes to ethics, teamwork, and respect with eachother.
+The goal of this document is to outline expectations from the guild and it's members. This is a living document which will be updated over time to reflect the current state. The goal of this document is to outline who we are and are not. Moreover, we should not be confined to what is explicitly stated within this document when it comes to ethics, teamwork, and respect with each other.
 
 ## Our mission
 
 Our mission is to put a quality raid together under the unified tag of Haste. The expectation is that we all contribute in our best capacity. No more. No less.
 
-We're not multiple teams under one group. We're one group of people. No "A" team or "B" team. We look to make full use of our scheduled time to maximize production of loot. If we finish all content early in the schedule, our next goal s "split runs" with a tilt towards building the perfect raid.
+We're not multiple teams under one group. We're one group of people. No "A" team or "B" team. We look to make full use of our scheduled time to maximize production of loot. If we finish all content early in the schedule, our next goal is "split runs" with a tilt towards building the perfect raid.
 
 - We're a progression gaming group which leans toward hardcore.
-- We like to have fun. This often means exploring various aspects of the human condition together.
+- We like to have fun. This often means exploring various aspects of the human condition together through colorful conversation.
 - We tend to use loot council with analytics.
 - A core tenant of our system is to reward individuals who have dedicated themselves to those around them.
 - Event/Raid timing
@@ -77,6 +82,7 @@ We're not multiple teams under one group. We're one group of people. No "A" team
 - Bring your best self.
 - Be ready to grow. No self limits.
 - No cheats, exploits, or scams.
+- Keep dividing politics at home.
 - Have fun. It’s a game.
 
 ## Guild Roles and Responsibilities
@@ -89,11 +95,11 @@ We're not multiple teams under one group. We're one group of people. No "A" team
   - Be the advocate for everyone
 - Officer
   - Event scheduling
-  - Ensure guild and individuals are staying true to our Haste ways.
+  - Ensure guild and individuals are staying true to our Haste Charter
 - Class Champion
-  - An individual nominated to the role by his peers in class.
+  - An individual nominated to the role by his peers in class
   - The guild's multi directional conduit into raid ceremonies such as Loot Council votes, Post Raid discussions, class raid assignments, etc.
-  - Works with a Officer to introduce and explore concepts into raids and shape the guild.
+  - Works with an Officer to introduce and explore concepts into raids and shape the guild
 - Raider
   - Maintains the 3 P's.
     - Preparation
@@ -102,7 +108,7 @@ We're not multiple teams under one group. We're one group of people. No "A" team
 - Veteran
       - A casual rank within the guild for those who have completed an expansion with Haste.
 - ALT
-      - A persons alternate.
+      - A person's alternate.
 - Member
   - A casual member.
 - Trial
@@ -117,11 +123,13 @@ We're not multiple teams under one group. We're one group of people. No "A" team
 - Raider
   > An active Raider within the Haste community.
 - Class Champion
-  > See an Officer
+  > See an Officer.
 
 ### Member Removal
 
-We are an at-will raiding organization. If the member violates explic
+Member removal is never taken lightly. However, members found in violation of code of conduct and/or other undue behavior will be removed.
+
+Readmission is case by case.
 
 ## Raiding with Haste
 
@@ -131,8 +139,8 @@ Discord. Rosters are managed via spreadsheet.
 
 ### Raid Flow/Timing
 
-- 6:00pm -- Invites start.
-- 6:19pm -- Travel group leaves
+- 6:00pm -- Invites start
+- 6:20pm -- Out of game confirmed player check
 - 6:25pm -- Log in for buffs
 - 6:30pm -- Slay!
 - 8:15pm -- Drink water & resume slaying!
@@ -173,7 +181,7 @@ Each role is to be promoted with an Assist or (A) before raid kickoff.
 
 ### Loot
 
-Progression Loot Distribution is Loot council driven by analytics. Smaller raids such as Zul'Gurrub are done with Need over Greed, and EPGP for Idols.
+Progression Loot Distribution is Loot council driven by analytics. Smaller raids such as Zul'Gurub are done with Need over Greed, and EPGP for Idols.
 
 Loot from any instance is not to be 'Need' rolled, and then sold to another Haste member.
   > Exception: Items won via the "Greed" roll may be traded or sold.
@@ -182,35 +190,35 @@ Loot from any instance is not to be 'Need' rolled, and then sold to another Hast
 
 The council is made up of many individuals within the guild. It's a cross section of all layers within the guild by design to ensure that all members have the ability to be involved & ensure integrity & fairness to all.
 
-- The primary goal of the loot council is to distribute loot in an evenly and fair.
+- The primary goal of the loot council is to distribute loot in an even and fair manner.
   - Typically this means the group has 80% agreement or more from the selected comittee.
 - The council is not static
 - The council is made up of individuals from the rank of Class Champion, Officers, Raiders, and GM roles.
 - The active council will have access to 'officer' chat to discuss item distribution.
 - The council will be adjusted to ensure healthy voting numbers.
-- Votes not resulting in a clear winner will will have ties broken by elevating to the highest rank available for executive decision.
+- Votes not resulting in a clear winner will have ties broken by elevating to the highest rank available for executive decision.
 - Champions “elections” will happen near quarterly/content patch if vacant.
 
 |Things we consider   |  Questions we ask  | Why?
 |---|---|---|
 | Recently acquired gear |  Have they made recent improvements? When was thier last upgrade?   | It displays work in and out of the raid |
-| Raid prep | Have they taken the time to prepare their character? | Explore the range of their prep. Prep is many things. |
+| Raid prep | Have they taken the time to prepare theirr character? | Explore the range of their prep. Prep is many things. |
 | Raid impact | Can this item impact the raid? | We always want to measure impact |
-| Raid participtation | Does this person contribute to the actively contribute to the raid? | It's always nice when people take initiative. |
+| Raid participation | Does this person contribute to the actively contribute to the raid? | It's always nice when people take initiative. |
 | Raid performance | Does this person kick butt? | A primary objective, slay monsters! |
 | Raid attitude | Does this person make raiding a pleasure? Or are they a fuck face? | Self-explanatory |
-| Tenure | What does history say? | Time is a great measure of an individuals character. |
+| Tenure | What does history say? | Time is a great measure of an individual's character. |
 | Meeting expectations | Did they read this document? | Sometimes it's the basics |
 
 ##### Council Commitment
 
 As mentioned above, the council is a cross section of the guild. The goal is that diversity provides perspective to create a fair process for deciding the most optimal placement of loot within the guild.
 
-By voting on the council, each member is comitted to a fair and quality vote for all participants.
+By voting on the council, each member is committed to a fair and quality vote for all participants.
 
 ##### Council Feedback
 
-So something didn't go your way, or would like some clarity on thing? Let's discuss AFTER the raid.
+So something didn't go your way, or would like some clarity on something? Let's discuss AFTER the raid.
 
 The feedback channels are to use **Class Champions**, **Officers**, and potentially the **GM**. Moreover, it's important to start local within our group & gain perspective. 
 
@@ -237,19 +245,30 @@ The feedback channels are to use **Class Champions**, **Officers**, and potentia
 #### Raid 40 Content
 
 ##### Naxx
+
 ##### AQ
+
+- Viscidus
+  - Max NR for all DPS
+  - 2 Nature Potions, cleansing agent, and Bandages.
+
 ##### BWL
-  - Broodlord: **NO** Curse of Reck. <3
-  - Loot the sand.
+
+- Broodlord: **NO** Curse of Reck. <3
+- Loot the sand.
+
 ##### MC
-  - Loot the dogs.
+
+- Loot the dogs.
+
 ##### Onyxia
-  - Onyxia Hide Bag(s)
+
+- Onyxia Hide Bag(s)
     > Max Bag count: **2** (Aug 2020)
-    - Each individual is allowed to roll until they've received the max bag count.
-    - Bag count is per individual.
-      - Do not roll for bags on your alt unless you want to use your bag count.	
-    - The bag count increments when the raid group has reached high saturation.
+  - Each individual is allowed to roll until they've received the max bag count.
+  - Bag count is per individual.
+    - Do not roll for bags on your alt unless you want to use your bag count.	
+  - The bag count increments when the raid group has reached high saturation.
 
 #### Raid 20 Content
 
@@ -260,7 +279,7 @@ The feedback channels are to use **Class Champions**, **Officers**, and potentia
    1. Raider Tank
    2. Raider
    3. RaiderAlt
-   4. Alt
+   4. Trial, Alt
    5. Other
 
 - Scarab Tokens
@@ -270,7 +289,7 @@ The feedback channels are to use **Class Champions**, **Officers**, and potentia
 
 - EPGP
   - GP is used to track idol distribution.
-  - Raid must a hosted & confirmed raid by an officer or higher.
+  - Raid must be a hosted & confirmed raid by an officer or higher.
   - Each boss is worth 2 EP.
   - Hakkar is worth 3 EP.
 
@@ -279,7 +298,7 @@ The feedback channels are to use **Class Champions**, **Officers**, and potentia
     - Only one Idol per player per ZG regardless of EPGP Ratio unless agreed by raid team.
     - Priority goes to Lowest Ratio (someone who hasn't received one yet).
     - Should be expressed early (raid start) and before boss pull if you plan to utilize EP/GP for priority.
-    - Character should be active 40 man roster raider.
+    - Character should be an active 40 man roster raider.
 
   - Bijou
     - Send to guild bank to be redistributed for ZG shoulder enchants.
@@ -307,7 +326,7 @@ Rules (unless stated otherwise):
    > Materials include all dungeon specific resources unless explicitly stated in this document.
 
 5. Legendary items;
-   > Legendary items on standing reseve include Eye of Sulfuras, Binding(s) of the Windseeker, Splinter of Atiesh.
+   > Legendary items on standing reserve include Eye of Sulfuras, Binding(s) of the Windseeker, Splinter of Atiesh.
 
 ### Upcoming additions
 
@@ -334,7 +353,7 @@ It depends. Do you need it to do your job?
 
 ### I'm a Tank! Should I flask?
 
-- If you headlining the raid? Probably.
+- Are you headlining the raid? Probably.
 - Off-tanking? Rare circumstances
 
 ## Appendix
