@@ -202,7 +202,7 @@ The council is made up of many individuals within the guild. It's a cross sectio
 |Things we consider   |  Questions we ask  | Why?
 |---|---|---|
 | Recently acquired gear |  Have they made recent improvements? When was thier last upgrade?   | It displays work in and out of the raid |
-| Raid prep | Have they taken the time to prepare theirr character? | Explore the range of their prep. Prep is many things. |
+| Raid prep | Have they taken the time to prepare their character? | Explore the range of their prep. Prep is many things. |
 | Raid impact | Can this item impact the raid? | We always want to measure impact |
 | Raid participation | Does this person contribute to the actively contribute to the raid? | It's always nice when people take initiative. |
 | Raid performance | Does this person kick butt? | A primary objective, slay monsters! |
