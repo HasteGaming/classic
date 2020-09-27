@@ -87,7 +87,7 @@ We're not multiple teams under one group. We're one group of people. No "A" team
 
 ## Guild Roles and Responsibilities
 
-### Guild Ranks and expectations
+### Guild Ranks, Roles, and expectations
 
 - Guild Master
   - Produce this document
@@ -99,7 +99,9 @@ We're not multiple teams under one group. We're one group of people. No "A" team
 - Class Champion
   - An individual nominated to the role by his peers in class
   - The guild's multi directional conduit into raid ceremonies such as Loot Council votes, Post Raid discussions, class raid assignments, etc.
-  - Works with an Officer to introduce and explore concepts into raids and shape the guild
+  - Works with an Officer to introduce and explore concepts into raids and shape the guild.
+  - Organize class members to establish a priorities for highly contested items.
+  - Nominate high performing Characters promotion to 'Raider' rank. 
 - Raider
   - Maintains the 3 P's.
     - Preparation
