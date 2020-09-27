@@ -190,7 +190,7 @@ Loot from any instance is not to be 'Need' rolled, and then sold to another Hast
   
 #### Universal loot expectations
   
-- No enchants? No prio.
+- No enchants? No priority.
   > Exception: Head & Leg enchants do not exclude
 
 #### Loot Council
