@@ -185,6 +185,11 @@ Progression Loot Distribution is Loot council driven by analytics. Smaller raids
 
 Loot from any instance is not to be 'Need' rolled, and then sold to another Haste member.
   > Exception: Items won via the "Greed" roll may be traded or sold.
+  
+#### Universal loot expectations
+  
+- No enchants? No prio.
+  > Exception: Head & Leg enchants do not exclude
 
 #### Loot Council
 
