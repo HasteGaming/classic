@@ -1,3 +1,3 @@
 # Haste Gaming
 
-## Mission/Charter/FAQ [Here](https://thehairygun.github.io/hastegaming/charter).
+## Mission/Charter/FAQ [Here](https://hastegaming.github.io/classic/charter).
