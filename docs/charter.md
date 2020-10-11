@@ -75,6 +75,8 @@ We're not multiple teams under one group. We're one group of people. No "A" team
 
 - Respect each other.
   - This means time, space, and effort.
+    - Leaving without prior notice before a scheduled raid ends is not respecting others' time
+    - Participation matters, raids are balanced with you in mind.
   - Zero exceptions.
 - Come prepared to raid.  
   - This means your character, your physical and mental wellbeing.
@@ -96,6 +98,7 @@ We're not multiple teams under one group. We're one group of people. No "A" team
 - Officer
   - Event scheduling
   - Ensure guild and individuals are staying true to our Haste Charter
+    - Ensure guild and individuals are being held accountable, either themselves or through Class Champions.
 - Class Champion
   - An individual nominated to the role by his peers in class
   - The guild's multi directional conduit into raid ceremonies such as Loot Council votes, Post Raid discussions, class raid assignments, etc.
@@ -107,6 +110,11 @@ We're not multiple teams under one group. We're one group of people. No "A" team
     - Preparation
     - Participation
     - Performance
+  - Raiders should assist the Loot Council by filling out the current phase gear listing for their class, and work with Class Champions to optimize choices.
+  - Can include a person's alternate meaningful raid toon.
+    - This character provides as much to the raid as any main.
+    - This character for loot considerations is equal to other Raiders.
+    - This must be approved and nominated by the Class Champion of the alts class.
 - Veteran
       - A casual rank within the guild for those who have completed an expansion with Haste.
 - ALT
