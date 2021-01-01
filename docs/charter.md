@@ -263,7 +263,8 @@ The feedback channels are to use **Class Champions**, **Officers**, and potentia
 
 - Loatheb
   - Prep
-    - 3 Shadow potions. 
+    - 3 Shadow potions (and per attempt). 
+    - Find a healthstone (or have Tubers) from OUTSIDE the raid!
     - Food, Drink, Zanza.
 
 ##### AQ
