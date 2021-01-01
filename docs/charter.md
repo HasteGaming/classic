@@ -261,6 +261,11 @@ The feedback channels are to use **Class Champions**, **Officers**, and potentia
 
 ##### Naxx
 
+- Loatheb
+  - Prep
+    - 3 Shadow potions. 
+    - Food, Drink, Zanza.
+
 ##### AQ
 
 - Viscidus
